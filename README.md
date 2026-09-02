@@ -868,7 +868,7 @@ Node.js + Express.js
 
 # 👩‍💻 Author
 
-**Your Name**
+**Nidhi M**
 
 This project was developed as a beginner-level full-stack application to demonstrate hospital appointment booking and queue management using React, Node.js, and Express.
 
@@ -902,5 +902,4 @@ Billing
 Pharmacy
         ↓
 Reports & Analytics
-
 
