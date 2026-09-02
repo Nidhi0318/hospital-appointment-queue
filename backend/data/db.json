@@ -1,0 +1,35 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Ananya Rao",
+      "specialization": "General Medicine",
+      "available": false
+    },
+    {
+      "id": 2,
+      "name": "Dr. Rahul Kumar",
+      "specialization": "Cardiology",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Dr. Priya Sharma",
+      "specialization": "Pediatrics",
+      "available": false
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "patientName": "Asha",
+      "phone": "9876543210",
+      "doctorId": 1,
+      "doctorName": "Dr. Ananya Rao",
+      "date": "2026-09-01",
+      "time": "10:00",
+      "status": "Confirmed",
+      "token": null
+    }
+  ]
+}

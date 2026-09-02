@@ -1,0 +1,13 @@
+1. Open this folder in VS Code.
+2. Terminal 1:
+   cd backend
+   npm install
+   npm start
+3. Terminal 2:
+   cd frontend
+   npm install
+   npm run dev
+4. Open http://localhost:5173
+
+Flow:
+Book Appointment -> Confirmed -> Generate Token -> Waiting Queue -> Doctor Calls Next -> Completed
